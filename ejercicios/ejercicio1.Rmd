@@ -1,0 +1,20 @@
+---
+title: "Ejercicio 1: Análisis Básico"
+output: html_document
+---
+
+## Introducción
+
+En este ejercicio trabajaremos con una matriz de datos. Descarga la matriz haciendo clic [aquí](../datos/matriz_datos1.csv).
+
+## Código de Ejemplo
+
+```{r}
+# Cargar los datos
+datos <- read.csv("../datos/matriz_datos1.csv")
+
+# Mostrar las primeras filas
+head(datos)
+
+# Resumen descriptivo
+summary(datos)
