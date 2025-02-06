@@ -1,5 +1,5 @@
 ---
-title: "Inicio - Curso de Genética Cuantitativa"
+title: "Inicio - Curso de Genética Cuantitativa Evolutiva"
 layout: default
 ---
 
