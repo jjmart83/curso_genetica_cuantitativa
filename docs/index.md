@@ -13,5 +13,6 @@ En este repositorio encontrarás los materiales y ejercicios del curso.
 2. [Práctica 2: Diseño de hermanos completos](./practica2_anova.html)
 3. [Práctica 3: Diseño de medios hermanos](./Practica3_half.html)
 4. [Práctica 4: Ajuste de modelos univariados y multivariados con MCMCglmm](./Practica4.html)
+5. [Práctica 5: Ajuste de modelos univariados y multivariados con brms](./Practica5.html)
 
 
