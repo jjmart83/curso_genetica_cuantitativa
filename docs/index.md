@@ -14,5 +14,6 @@ En este repositorio encontrarás los materiales y ejercicios del curso.
 3. [Práctica 3: Diseño de medios hermanos](./Practica3_half.html)
 4. [Práctica 4: Ajuste de modelos univariados y multivariados con MCMCglmm](./Practica4.html)
 5. [Práctica 5: Ajuste de modelos univariados y multivariados con brms](./Practica5.html)
+6. [Práctica 6: Diseño de Proyectos de Genética Cuantitativa](./Proyectos QG.html)
 
 
